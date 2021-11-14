@@ -1,3 +1,3 @@
-# Demo
+# Hiii 👋
 
-Some description!
+I'm a student at UIT 🏫
